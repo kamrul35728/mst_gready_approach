@@ -1,1 +1,1 @@
-# mst_gready_approach
+find minimum cost in bidirected graph gready approach
