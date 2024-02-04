@@ -1,5 +1,3 @@
-
-Sk Tawkir Ahmed
 #include <bits/stdc++.h>
 using namespace std;
 bool dfs(int node, vector<vector<int>> &adj, vector<bool> &visited, int parent){
